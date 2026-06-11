@@ -1,6 +1,6 @@
 # first-pr-demo
 
-Dieses Repository wurde von Bridging-Agency erstellt um den ersten Pull Request auf GitHub zu üben.
+Dieses Repository wurde von Bridging-Agency erstellt, um den ersten Pull Request auf GitHub zu üben.
 
 ## Was ist ein Pull Request?
 
